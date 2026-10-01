@@ -1,6 +1,6 @@
 # Awesome-Data-Replication-Platform
 
-# Top Data Replication Platforms Ecosystem
+## Top Data Replication Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Change Data Capture, Real-Time Replication, Database Migration & Data Integration*
