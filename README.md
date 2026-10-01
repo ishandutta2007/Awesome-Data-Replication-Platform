@@ -4,7 +4,7 @@
 
 # 🚀 Awesome Data Replication Platform
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="Last Commit"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Replication-Platform/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Data-Replication-Platform?style=flat-square" alt="Last Commit"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -58,7 +58,7 @@ The table below lists leading SaaS and commercial data replication products sort
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated list of production-proven open-source data replication tools, sorted by **GitHub Star Count (descending)**. Each badge links directly to the repository's stargazers page:
+Below is a curated list of production-proven open-source data replication tools, sorted by **GitHub Stars_Count (descending)**. Each badge links directly to the repository's stargazers page:
 
 1. **[Airbyte](https://github.com/airbytehq/airbyte)** [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
    **The leading open-source data integration engine.** Supports 300+ pre-built connectors for databases, APIs, and data warehouses with both CDC (via Debezium integration) and batch sync modes. **ELv2 License**.
